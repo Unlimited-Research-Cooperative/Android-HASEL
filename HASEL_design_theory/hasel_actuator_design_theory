@@ -3,8 +3,8 @@ hasel
 hv amplifier
 voltage monitor
 hv output to actuators
-charging octocoupler
-discharging octocoupler
+charging optocoupler
+discharging optocoupler
 voltage regulator
 microcontroller
 
