@@ -3,16 +3,18 @@
 # Android-HASEL
 
 </div>
+## Description
+
+Welcome to the Android-HASEL project! Our mission is to push the boundaries of android technology by harnessing the power of Hydraulically Amplified Self-healing Electrostatic (HASEL) actuators. We aim to create androids that not only look and move like humans but also possess the ability to adapt and self-heal, taking realism and functionality to a whole new level. Our project brings together expertise from various fields, including robotics, material science, and software engineering, to make this vision a reality.
+</div>
 
 </p>
 <h1 align="center">3D printable skeleton and model</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Unlimited-Research-Cooperative/Android-HASEL/main/images/skeleton_pelagaya.png" alt="3d printable skeleton and model">
 </p>
+</div>
 
-## Description
-
-Welcome to the Android-HASEL project! Our mission is to push the boundaries of android technology by harnessing the power of Hydraulically Amplified Self-healing Electrostatic (HASEL) actuators. We aim to create androids that not only look and move like humans but also possess the ability to adapt and self-heal, taking realism and functionality to a whole new level. Our project brings together expertise from various fields, including robotics, material science, and software engineering, to make this vision a reality.
 
 ### Key Features
 
