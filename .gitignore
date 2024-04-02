@@ -1,2 +1,10 @@
 models/
 
+
+# Ignore IPython notebook checkpoints
+.ipynb_checkpoints/
+public_models/.ipynb_checkpoints/
+HASEL_design_theory/.ipynb_checkpoints/
+images/.ipynb_checkpoints/
+ipynb_checkpoints_list.ipynb
+
