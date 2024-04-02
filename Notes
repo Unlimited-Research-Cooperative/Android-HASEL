@@ -149,16 +149,27 @@ Incorporating Pressure-Sensitive Materials:
 
 
 Simple and cost-effective recipes for making conductive hydrogels involves:
-    Carbon Conductive Hydrogel Electrodes:
-        Ingredients:
-            carbon powder
-            PVP
-            boric acid
-        Instructions:
-            Mix with water, cure.
-    
-    
-    
+    Graphite Conductive Hydrogel Electrodes:
+        Ingredients Update:
+        Graphite Powder: 1g
+        Polyvinyl Alcohol (PVA): 10g
+        Polyvinylpyrrolidone (PVP): 5g
+        Boric Acid: 2g
+        Distilled Water: 100ml
+        Adjusted Instructions:
+        1. Preparing the Solution
+        Dissolve PVA and PVP: Combine the PVA and PVP with distilled water in a beaker. The amount of water remains the same (100ml) to ensure the solution is not too dilute. Heat the mixture while stirring continuously. Use a water bath or a microwave for controlled heating. The goal is to dissolve both the PVA and PVP completely without boiling the water. This process might take some time, so patience is key. Heating should be done until you reach a homogeneous, clear solution, typically around 90°C.
+        2. Adding Graphite and Boric Acid
+        Cool Down the Solution: Allow the solution to cool to about 50°C to prevent the premature reaction of boric acid.
+        Incorporate Graphite Powder: Gradually add the graphite powder to the solution, stirring continuously to avoid clumps and ensure even distribution.
+        Add Boric Acid: Slowly incorporate the boric acid into the mixture. Boric acid acts as a cross-linking agent, reacting with the PVA (and to some extent with PVP), which helps in forming the gel structure.
+        3. Gelation
+        Cure the Mixture: Pour the mixture into your chosen mold or container. Let it sit undisturbed at room temperature to cure. The curing time can vary but typically ranges from a few hours to overnight. During this time, the mixture will solidify into a hydrogel form.
+        4. Final Steps
+        Demolding: Once the hydrogel has set and cured, carefully remove it from the mold.
+        Characterization (Optional): You may wish to characterize the hydrogel by checking its conductivity, mechanical strength, and other relevant properties using appropriate instruments and methods.
+            
+            
     
 
 
