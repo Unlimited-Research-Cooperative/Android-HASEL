@@ -20,11 +20,7 @@ Welcome to the Android-HASEL project! Our mission is to push the boundaries of a
   <img src="images/skeleton_pelagaya_arm_and_hand.png" alt="publicly available 3D printable hand and arm">
 </p>
 </div>
-<h1 align="center">optocoupler high voltage power supply</h1>
-<p align="center">
-  <img src="images/HVPS.png" alt="optocoupler high voltage power supply">
-</p>
-</div>
+
 
 ### Key Features
 
